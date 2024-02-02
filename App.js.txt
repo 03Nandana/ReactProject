@@ -1,0 +1,19 @@
+import React from 'react';
+import './App.css';
+import logo from './logo.png'; // Import the image
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" /> {"https://s3-alpha-sig.figma.com/img/e623/6bd7/1dd8e61fcac2c9c7af98f1fbbf93d497?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jqym85cLEJ7T5~k~Z4g5Z1kgIGpd-Rmlvsv-uYLaTo2JKGvz-x24XGLHs8wIngtbcsbIbTCj6p0zInpkQMIWffRpc0nl~lpYcB45l2eeGo8QdowA2pVRWPkZ0hAi2MSOlGz-TQBBtqbUZosNvjrfJbg-aQfXG3eNDdvUHLLUy42KhHkvn6G6gucID0tDbEA9fgKD-xnvgqoXGTeDT~awhcJA73PFVqGGzGFgqFJLN8KBaZ7U220cKVutrmbwZj0TuOKqoQsNYj0M6BkaSwdHzCgYAUGGsGwmts1M5-gCTLZUVGHjHdg2RjkZfnhcnxIqa8QLccF17HHgVpeDphK0wQ__"}
+        <img src={logo} className="App-logo" alt="logo" /> {"https://s3-alpha-sig.figma.com/img/7147/9344/2501faa7f289434a9b99bafaa474cc0e?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eH~wuXAEILf-vKik9f6z0TaJy-rKIilEDMS~j6ZZQoMfgaznxD8FQLah5BlsayxPfP8yLiJSwwuhyndVSS6eq~rDRUODS1qB4HhMxgczcV55xB4cJ10a1dVc0eAHjxwsNJBEDM7w3zcNM6Y5Z8oLsCxNQM3~rPbeuwAUhDkvEAyzGAfvoT6mAvi46dh~OPc8fbz2Z7j9m4MuKZ9~Ca-6sZktJOzdf32O4zcwErgx1otoaYtGejZbQxE-MHdB3GyIf~GvKbeIrztYLd2OZH5zYcsee0Z7c0KeGMpYkAqIBVSo~n3hZOgBmxzsmvmAbf7wvOBsLSD72wVDgLPA~6hplw__"}
+        <h1>FORTNITE</h1>
+      </header>
+    </div>
+  
+  export default App;
+
+
+
+ 
